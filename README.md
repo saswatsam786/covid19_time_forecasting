@@ -15,4 +15,4 @@ The `covid19_time_forecasting` project is a tool designed to provide time foreca
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/covid19_time_forecasting.git
+   git clone https://github.com/saswatsam786/covid19_time_forecasting
